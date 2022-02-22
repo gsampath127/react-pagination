@@ -41,11 +41,3 @@
 .pageNumbers li.button:focus{
     outline: none;
 }
-
-.loadMore{
-    padding: 1rem;
-    background-color: transparent;
-    color: white;
-    border: 1px solid white;
-}
-
